@@ -21,6 +21,7 @@
   "homepage": "https://github.com/lucashenriquecss/Projeto_Formacao_nodejs#readme",
   "dependencies": {
     "express": "^4.18.1",
+    "mongoose": "^6.6.0",
     "nodemon": "^2.0.19"
   }
 }
