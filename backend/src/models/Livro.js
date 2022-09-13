@@ -7,6 +7,7 @@ const livroSchema = new mongoose.Schema({
     author: {type:String, required:true},
     editor: {type:String, required:true},
     pages: {type:Number}
+    
 
 });
 //variavel que vai ser exportada para outros arquivos
